@@ -35,7 +35,7 @@
     "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.34.0",
     "@vue/runtime-dom": "^3.2.47",
-    "@vue/test-utils": "^1.1.1",
+    "@vue/test-utils": "^2.4.6",
     "base64-loader": "^1.0.0",
     "buffer": "^6.0.3",
     "chai": "^4.2.0",
@@ -43,12 +43,12 @@
     "eslint": "^6.8.0",
     "fork-ts-checker-webpack-plugin": "^6.5.3",
     "lodash": "^4.17.21",
-    "mocha": "^10.2.0",
+    "mocha": "^10.8.2",
     "npm-license-generator": "^1.1.0",
     "nyc": "^15.1.0",
     "prettier": "2.2.1",
     "process": "^0.11.10",
-    "puppeteer": "^21.6.1",
+    "puppeteer": "^24.10.2",
     "sass": "^1.26.11",
     "sinon": "^17.0.1",
     "sinon-chai": "^3.7.0",
@@ -58,10 +58,10 @@
     "typescript": "^5.0.0",
     "url-loader": "^4.0.0",
     "util": "^0.12.5",
-    "vue-loader": "^15.10.1",
+    "vue-loader": "^17.4.2",
     "vue-svg-loader": "^0.16.0",
-    "vue-template-compiler": "^2.7.0",
-    "webpack": "^5.11.0",
+    "vue-template-compiler": "^2.7.16",
+    "webpack": "^5.99.9",
     "webpack-cli": "^5.0.0",
     "webpack-merge": "^5.0.0"
   },
@@ -73,8 +73,8 @@
     "qrcode-generator": "^1.4.4",
     "qrcode-reader": "^1.0.4",
     "uuid": "^3.4.0",
-    "vue": "^2.6.12",
+    "vue": "^3.5.17",
     "vue2-dragula": "^2.5.4",
-    "vuex": "^3.4.0"
+    "vuex": "^4.1.0"
   }
 }
